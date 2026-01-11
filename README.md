@@ -99,9 +99,7 @@ Although Excel does not enforce physical relationships like BI tools, a **logica
 
 * Lookup functions:
 
-  * `XLOOKUP`
   * `VLOOKUP`
-  * `INDEX-MATCH`
 * Mapped descriptive attributes (product name, category, customer info) into the fact table
 * Maintained **one-to-many logical relationships**
 
@@ -218,8 +216,7 @@ All dashboards are built using:
 * Slicers & Timelines
 * Excel formulas:
 
-  * XLOOKUP
-  * INDEX-MATCH
+  * VLOOKUP
   * IF
   * SUMIFS
 
